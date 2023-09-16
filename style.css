@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #0A369D;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    margin: auto;
+    margin-top: 200px;
+    height: 500px;
+    width: 400px;
+    background-color: #4472CA;
+    border-radius: 20px;
+    border: 3px solid black;
+    
+}
+
+#main h1{
+    background-color: #5E7CE2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+#screen{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-color: #92B4F4;
+    border: 3px solid black;
+    margin-right: 7px;
+    margin-left: 7px;
+    height: 120px;
+    width: 380px;
+}
+
+
+#screen h2{
+    text-align: end;
+    margin-top: 75px;
+    background-color: #92B4F4;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#first-row{
+    background-color: #4472CA;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#first-row button{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: #5E7CE2;
+    border-radius: 5px;
+}
+
+#second-row{
+    background-color: #4472CA;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#second-row button{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: #5E7CE2;
+    border-radius: 5px;
+}
+
+#third-row{
+    background-color: #4472CA;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#third-row button{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: #5E7CE2;
+    border-radius: 5px;
+}
+
+#fourth-row{
+    background-color: #4472CA;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#fourth-row button{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: #5E7CE2;
+    border-radius: 5px;
+}
+
+#fifth-row{
+    background-color: #4472CA;
+    margin: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#fifth-row button{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: #5E7CE2;
+    border-radius: 5px;
+}
+
+#fifth-row #bigger-button{
+    width: 184px;
+    height: 50px;
+}
+
+.footer h2{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #5E7CE2;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 0px;
+}
